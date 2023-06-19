@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url("https://st3.depositphotos.com/1364311/32608/i/450/depositphotos_326083766-stock-photo-green-poker-background.jpg");
+    background-size: cover;
+    color: #fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 60px;
+    color: goldenrod;
+}
+
+#message-el {
+    margin-top: 60px;
+    margin-bottom: 100px;
+    font-style: italic;
+    font-size: 30px;
+
+}
+
+p {
+    font-size: 30px;
+}
+
+#startGame {
+    font-weight: bold;
+    color: #016f32;
+    border-radius: 3px;
+    background: goldenrod;
+    width: 200px;
+    padding: 10px;
+}
+
+#newCard {
+    font-weight: bold;
+    color: #016f32;
+    border-radius: 3px;
+    background: goldenrod;
+    width: 200px;
+    padding: 10px;
+}
